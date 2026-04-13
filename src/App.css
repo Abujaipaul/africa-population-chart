@@ -1,0 +1,10 @@
+
+.chart-box{
+  border: 1px solid green;
+  box-shadow: 0px 0px 2px 2px green;
+  max-width: 550px;
+  height: 100%;
+  margin: 0px auto;
+  margin-top: 40px;
+  padding: 20px;
+}
