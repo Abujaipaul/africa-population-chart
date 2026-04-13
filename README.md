@@ -21,10 +21,10 @@ A React-based data visualization application that fetches, transforms, and displ
 To view and run this dashboard locally on your machine:
 
 1. Clone the repository:
-`git clone https://github.com/Abujaipaul/africa-demographics-dashboard.git`
+`git clone https://github.com/Abujaipaul/africa-population-chart.git`
 
 2. Navigate into the project directory:
-`cd africa-demographics-dashboard`
+`cd africa-population-chart`
 
 3. Install the required dependencies (including Recharts):
 `npm install`
