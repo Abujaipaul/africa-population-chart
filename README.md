@@ -1,4 +1,4 @@
-#  Africa Demographics Dashboard
+#  Africa Population Chart
 
 A React-based data visualization application that fetches, transforms, and displays live population metrics for African nations using a public API.
 
