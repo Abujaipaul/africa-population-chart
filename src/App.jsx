@@ -50,8 +50,8 @@ function App() {
               <YAxis domain={['dataMin', 'dataMax']} />
               <Tooltip />
 
-              <Bar dataKey='population' stroke='green' fill='green' fillOpacity={0.3} />
-               {/* type='monotone' (no need for this...use to make line curvy but since it is a bar chart..no need) */}
+              <Bar dataKey='population'   radius={10}  stroke='orange' fill='orange' fillOpacity={0.3} />
+               {/* type='monotone' (no need for this...use to make line curvy but since it is a bar chart..no need) and added a radius prop..it looks cool*/}
             </BarChart>
 
            </ResponsiveContainer>
